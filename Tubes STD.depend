@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1514140574 source:d:\materi kuliah\tugas\std\tubes std\main.cpp
+	<iostream>
+
+1522551436 source:d:\materi kuliah\tugas\std\tubes std\list_child.cpp
+	"list_child.h"
+
+1522551103 d:\materi kuliah\tugas\std\tubes std\list_child.h
+	<iostream>
+
+1522551769 source:d:\materi kuliah\tugas\std\tubes std\list_parent.cpp
+	"list_parent.h"
+
+1522551797 d:\materi kuliah\tugas\std\tubes std\list_parent.h
+	<iostream>
+
+1522551141 source:d:\materi kuliah\tugas\std\tubes std\list_relasi.cpp
+	"list_relasi.h"
+
+1522551147 d:\materi kuliah\tugas\std\tubes std\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+
+1523950442 source:c:\users\asus\documents\github repositories\tubes_std\list_child.cpp
+	"list_child.h"
+
+1522552161 c:\users\asus\documents\github repositories\tubes_std\list_child.h
+	<iostream>
+
+1523949428 source:c:\users\asus\documents\github repositories\tubes_std\list_parent.cpp
+	"list_parent.h"
+
+1523949418 c:\users\asus\documents\github repositories\tubes_std\list_parent.h
+	<iostream>
+
+1523951013 source:c:\users\asus\documents\github repositories\tubes_std\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	"list_child.h"
+	"list_relasi.h"
+	"list_parent.h"
+
+1523949888 c:\users\asus\documents\github repositories\tubes_std\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+
+1523950538 source:c:\users\asus\documents\github repositories\tubes_std\list_relasi.cpp
+	"list_relasi.h"
+
+1524757973 source:c:\users\gery\documents\github\tubes_std\list_child.cpp
+	"list_child.h"
+
+1524751254 c:\users\gery\documents\github\tubes_std\list_child.h
+	<iostream>
+
+1524751206 source:c:\users\gery\documents\github\tubes_std\list_parent.cpp
+	"list_parent.h"
+
+1524751224 c:\users\gery\documents\github\tubes_std\list_parent.h
+	<iostream>
+
+1524831444 source:c:\users\gery\documents\github\tubes_std\list_relasi.cpp
+	"list_relasi.h"
+
+1524828993 c:\users\gery\documents\github\tubes_std\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+
+1524792067 source:c:\users\gery\documents\github\tubes_std\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	"list_child.h"
+	"list_relasi.h"
+	"list_parent.h"
+	"function.h"
+	<conio.h>
+
+1524832228 source:c:\users\gery\documents\github\tubes_std\function.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<string>
+	"list_child.h"
+	"list_relasi.h"
+	"list_parent.h"
+	<conio.h>
+
+1524791075 c:\users\gery\documents\github\tubes_std\function.h
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+
